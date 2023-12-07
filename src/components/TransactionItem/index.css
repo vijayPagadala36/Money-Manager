@@ -1,0 +1,19 @@
+.line-container {
+  display: flex;
+  color: #7e858e;
+  display: flex;
+  border: solid 2px #d7dfe9;
+  padding: 0px 20px 0px 20px;
+}
+.data {
+  color: #7e858e;
+  font-family: 'Roboto';
+  width: 40%;
+}
+.delete-image {
+  width: 30px;
+}
+.delete-button {
+  background: transparent;
+  border: none;
+}

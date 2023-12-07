@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.amount-containers {
+  display: flex;
+  width: 30%;
+}
+.first-background {
+  background-color: #ecfccb;
+}
+.first-img-background {
+  border: solid 2px #84cc16;
+}
+.second-background {
+  background-color: #cffafe;
+}
+.second-img-background {
+  border: solid 2px #06b6d4;
+}
+.third-background {
+  background-color: #ede9fe;
+}
+.third-img-background {
+  border: solid 2px #7c3aed;
+}
+.tata {
+  width: 40%;
+  height: 40%;
+  padding: 20px;
+}
+.amount-containers {
+  border-radius: 10px;
+}
+.para {
+  color: #7e858e;
+  font-family: 'Roboto';
+}
+.para2 {
+  color: #7e858e;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
